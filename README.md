@@ -4,4 +4,4 @@
 
 ### My GitHub stats
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=gwenf&show_icons=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=dewittethomas&show_icons=true)
