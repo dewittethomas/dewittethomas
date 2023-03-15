@@ -1,7 +1,7 @@
 ### Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
-I'm Thomas a enthousiast programmer. 
+I'm Thomas an enthousiast programmer. 
 
 Living in Brussels, Belgium.
   
