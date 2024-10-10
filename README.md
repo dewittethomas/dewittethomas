@@ -3,7 +3,7 @@
 
 I'm Thomas an enthousiast programmer. 
 
-Living in Brussels, Belgium.
+Living in Ostend, Belgium.
   
 📫 How to reach me: @thomasdewitte_ , thomasdewittecontact@gmail.com
 
