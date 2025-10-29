@@ -1,18 +1,17 @@
-### Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hey there! 👋
 
+I'm **Thomas**, a developer from **Ostend, Belgium** who enjoys building things and understanding how they work under the hood.  
+I spend most of my time coding, self-hosting, learning new stacks, and just pushing myself to get better.
 
-I'm Thomas an enthousiast programmer. 
+📫 Reach me: **@thomasdewitte_** • **thomasdewittecontact@gmail.com**
 
-Living in Ostend, Belgium.
-  
-📫 How to reach me: @thomasdewitte_ , thomasdewittecontact@gmail.com
+---
 
-### Things I love to work with:
+### 🧠 Languages
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C%23-informational?style=flat&logo=c-sharp&logoColor=white&color=2bbc8a)
+
+### 🛠️ Tools I use:
 ![](https://img.shields.io/badge/Editor-Visual%20Studio%20Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Visual%20Studio-informational?style=flat&logo=visual-studio&logoColor=white&color=2bbc8a)
-
-
-
