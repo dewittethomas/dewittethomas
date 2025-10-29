@@ -8,10 +8,10 @@ I spend most of my time coding, self-hosting, learning new stacks, and just push
 ---
 
 ### 🧠 Languages
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-C%23-informational?style=flat&logo=c-sharp&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/C%23-informational?style=flat&logo=c-sharp&logoColor=white&color=2bbc8a)
 
 ### 🛠️ Tools I use:
-![](https://img.shields.io/badge/Editor-Visual%20Studio%20Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-Visual%20Studio-informational?style=flat&logo=visual-studio&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Visual%20Studio%20Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Visual%20Studio-informational?style=flat&logo=visual-studio&logoColor=white&color=2bbc8a)
